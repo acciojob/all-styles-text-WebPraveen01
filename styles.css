@@ -3,6 +3,7 @@
 	width:200px;
 	background-color:purple;
 	padding:10px;
+	border-left: 5px solid green;
 	
 }
 .heading{
@@ -10,8 +11,4 @@
 	color:white;
 	text-decoration:underline;
 }
-#heading{
-	border: 1px solid green;
-	width:2px;
-	background-color:green;
-}
+
